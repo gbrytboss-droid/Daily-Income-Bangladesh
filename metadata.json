@@ -1,0 +1,6 @@
+{
+  "name": "Daily Income Bangladesh",
+  "description": "Interactive daily income app for Bangladesh with animated coin earning, AdMob ad integration with 50% coin share, and Taka rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
